@@ -29,7 +29,7 @@ Here are the certifications I’m currently working on as part of my structured 
 - **Python for Everybody** — University of Michigan (Coursera)  
 - **Introduction to Data Science** — IBM (Coursera)  
 - **Machine Learning** — Stanford University, Andrew Ng (Coursera)  
-- **Python for Finance** — [Platform & Institution Name]  
+- **Python for Finance** — DataCamp 
 - **CFA Level 1** — CFA Institute  
 - **Excel Skills for Business** — Macquarie University (Coursera)
 
