@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 This repository documents my self-study journey to to pursue a role as a junior quant trader and to prepare for a top-tier master's degree in financial market.
----
 
 ## 👤 About Me 
 
