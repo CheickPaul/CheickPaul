@@ -18,6 +18,53 @@ My goal is to enhance my understanding of mathematics and programming, technical
 
 ---
 
+## 🎓 Certificates in Progress
+
+Here are the certifications I’m currently working on as part of my structured learning path.  
+👉 You can follow my progress in the dedicated repositories linked on my profile.
+
+- **Financial Markets** — Yale University (Coursera)  
+- **Investment Management** — University of Geneva (Coursera)  
+- **BMC Bloomberg Market Concepts** — Bloomberg  
+- **Python for Everybody** — University of Michigan (Coursera)  
+- **Introduction to Data Science** — IBM (Coursera)  
+- **Machine Learning** — Stanford University, Andrew Ng (Coursera)  
+- **Python for Finance** — [Platform & Institution Name]  
+- **CFA Level 1** — CFA Institute  
+- **Excel Skills for Business** — Macquarie University (Coursera)
+
+---
+
+## 📚 Books and Resources In Progress
+
+This section outlines the books I’m currently studying to reinforce my knowledge of mathematics, finance, and programming.  
+👉 Chapter summaries, solved exercises, and personal notes are available in the corresponding repositories.
+
+- *Precalculus* – Stewart & Redlin  
+- *Art of Problem Solving – Algebra*  
+- *Introduction to Probability* – Blitzstein & Hwang  
+- *Heard on the Street* – Timothy Crack  
+- *Calculus Vol 1 & 2* – Tom Apostol  
+- *Linear Algebra Done Right* – Sheldon Axler  
+- *Probability and Statistics* – Morris DeGroot  
+- *An Introduction to Game Theory* – Martin Osborne  
+- *Stochastic Calculus for Finance I & II* – Steven Shreve  
+- *The Concepts and Practice of Mathematical Finance* – Mark Joshi  
+- *Machine Learning for Asset Managers* – Marcos López de Prado  
+- *Numerical Methods in Finance with C++* – Daniel J. Duffy  
+- *Automate the Boring Stuff with Python* – Al Sweigart  
+- *Python for Data Analysis* – Wes McKinney  
+- *Introduction to OCaml* – Jason Hickey  
+- *Real World OCaml* – Yaron Minsky
+
+---
+
+## 📊 GitHub Stats
+
+![CheickPaul GitHub stats](https://github-readme-stats.vercel.app/api?username=CheickPaul&show_icons=true&theme=default)
+
+---
+
 ## 🚧 Progress Updates
 
 To keep this repository concise, I’ve listed my **certificates in progress**, **books in progress**, and other projects in separate repositories.  
