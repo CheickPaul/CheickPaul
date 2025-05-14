@@ -31,7 +31,6 @@ Here are the certifications I’m currently working on as part of my structured 
 - **Machine Learning** — Stanford University, Andrew Ng (Coursera)  
 - **Python for Finance** — DataCamp 
 - **CFA Level 1** — CFA Institute  
-- **Excel Skills for Business** — Macquarie University (Coursera)
 
 ---
 
