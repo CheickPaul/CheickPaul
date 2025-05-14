@@ -30,7 +30,8 @@ Here are the certifications I’m currently working on as part of my structured 
 - **Introduction to Data Science** — IBM (Coursera)  
 - **Machine Learning** — Stanford University, Andrew Ng (Coursera)  
 - **Python for Finance** — DataCamp 
-- **CFA Level 1** — CFA Institute  
+- **CFA Level 1** — CFA Institute
+- **Trading in the Zone – Psychology of Trading** — Udemy 
 
 ---
 
