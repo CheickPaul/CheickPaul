@@ -56,7 +56,13 @@ This section outlines the books I’m currently studying to reinforce my knowled
 - *Python for Data Analysis* – Wes McKinney  
 - *Introduction to OCaml* – Jason Hickey  
 - *Real World OCaml* – Yaron Minsky
+- 
+---
+## 📈 Algorithmic Trading System for Ultra Bond (UB) under development
 
+This project aims to develop a high performance trading algorithm designed for the Ultra Bond (UB) futures market. The strategyis based on Smart Money Concepts (SMC), volume spikes, time-based execution windows, economic news filtering basics elements that I have already used for passing rigorous propfirm challenge. 
+The core innovation lies in the integration of multiple AI agents, each responsible of replicating key elements of discretionary trading. The goal is to progressively evolve the systemfrom a semi automated assistant to a fully autonomous algorithm.
+This repository documents the design, architecture, agent roles and the logic of the system. The algorithm is under **under active development** and will be refined in progressive stages.
 ---
 
 ## 📊 GitHub Stats
@@ -67,18 +73,17 @@ This section outlines the books I’m currently studying to reinforce my knowled
 
 ## 🚧 Progress Updates
 
-To keep this repository concise, I’ve listed my **certificates in progress**, **books in progress**, and other projects in separate repositories.  
+To keep this repository concise, I’ve listed my **certificates in progress**, **books in progress**, and **algorithmic Trading projects under development** in separate repositories.  
 ➡️ **Feel free to explore my GitHub profile** to follow my full learning journey and current work.
 
 ---
 
-## ✨ Final Note
+##  ✨ Final Note - 🚀 Let's Connect 
 
-This repository showcases my long-term commitment to mastering both quantitative and discretionary trading and seeking opportunities in trading junior roles.  
-Feel free to collaborate, or follow my journey.
-
----
-## 🚀 Let's Connect
-
+This repository showcases my long term commitment to mastering both quantitative and discretionary trading and seeking opportunities in trading roles.  
 I’m always open to collaborations, projects, or discussions related to trading, quant finance, algorithmic trading, or financial modeling.  
-Feel free to explore my work. Feedback and suggestions are welcome!
+Feel free to follow my journey, explore my work and collaborate. Feedback and suggestions are welcome!
+---
+
+
+
