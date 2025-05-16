@@ -78,7 +78,7 @@ This repository documents the design, architecture, agent roles, and the logic o
 ## 🚧 Progress Updates
 
 To keep this repository concise, I’ve listed my **certificates in progress**, **books in progress**, and **algorithmic Trading projects under development** in separate repositories.  
-➡️ **Feel free to explore my GitHub profile** to follow my full learning journey and current work.
+➡️ **Feel free to explore my GitHub profile** to follow my learning journey and current work.
 
 ---
 
