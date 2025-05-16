@@ -60,9 +60,13 @@ This section outlines the books I’m currently studying to reinforce my knowled
 ---
 ## 📈 Algorithmic Trading System for Ultra Bond (UB) under development
 
-This project aims to develop a high performance trading algorithm designed for the Ultra Bond (UB) futures market. The strategyis based on Smart Money Concepts (SMC), volume spikes, time-based execution windows, economic news filtering basics elements that I have already used for passing rigorous propfirm challenge. 
-The core innovation lies in the integration of multiple AI agents, each responsible of replicating key elements of discretionary trading. The goal is to progressively evolve the systemfrom a semi automated assistant to a fully autonomous algorithm.
-This repository documents the design, architecture, agent roles and the logic of the system. The algorithm is under **under active development** and will be refined in progressive stages.
+This project aims to develop a high performance trading algorithm designed for the Ultra Bond (UB) futures market. The strategy is based on Smart Money Concepts (SMC), volume spikes, time-based execution windows, and economic news filtering — basic elements that I have already used for passing a rigorous propfirm challenge. 
+
+The core innovation lies in the integration of multiple AI agents, each responsible for replicating key elements of discretionary trading. The goal is to progressively evolve the system from a semi-automated assistant to a fully autonomous algorithm.
+
+This repository documents the design, architecture, agent roles, and the logic of the system. The algorithm is under active development and will be refined in progressive stages.
+
+
 ---
 
 ## 📊 GitHub Stats
@@ -83,6 +87,7 @@ To keep this repository concise, I’ve listed my **certificates in progress**, 
 This repository showcases my long term commitment to mastering both quantitative and discretionary trading and seeking opportunities in trading roles.  
 I’m always open to collaborations, projects, or discussions related to trading, quant finance, algorithmic trading, or financial modeling.  
 Feel free to follow my journey, explore my work and collaborate. Feedback and suggestions are welcome!
+
 ---
 
 
