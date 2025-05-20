@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-This repository documents my self-study journey to pursue a role as a junior quant trader and to prepare for a top-tier master's degree in financial market.
+This repository documents my self study journey to pursue a role as a junior quant trader and to prepare for a top tier master's degree in financial market.
 
 ## 👤 About Me 
 
-Welcome to my GitHub profile! I'm deeply passionate about financial markets, particularly trading and quantitative finance. Coming from a physics background, I am exploring how mathematical models and programming can be applied to financial decision-making and strategies.
+Welcome to my GitHub profile! I'm deeply passionate about financial markets, particularly trading and quantitative finance. Coming from a physics background, I am exploring how mathematical models and programming can be applied to financial decision making and strategies.
 
-After discovering trading through training and seminars, I validated challenges with prop firms such as Topstep. Now I am actively preparing to apply for top-tier master's programs in financial market and seeking opportunities in trading junior roles and quant positions.
+After discovering trading through training and seminars, I validated challenges with prop firms such as Topstep. Now I am actively preparing to apply for top tier master's programs in financial market and seeking opportunities in trading junior roles and quant positions.
 
-This GitHub is my way of documenting that journey, building projects, and connecting with like-minded individuals.
+This GitHub is my way of documenting that journey, building projects, and connecting with like minded individuals.
 
 ---
 
@@ -62,7 +62,7 @@ This section outlines the books I’m currently studying to reinforce my knowled
 
 This project aims to develop a high performance trading algorithm designed for the Ultra Bond (UB) futures market. The strategy is based on Smart Money Concepts (SMC), volume spikes, time-based execution windows, and economic news filtering — basic elements that I have already used for passing a rigorous propfirm challenge. 
 
-The core innovation lies in the integration of multiple AI agents, each responsible for replicating key elements of discretionary trading. The goal is to progressively evolve the system from a semi-automated assistant to a fully autonomous algorithm.
+The core innovation lies in the integration of multiple AI agents, each responsible for replicating key elements of discretionary trading. The goal is to progressively evolve the system from a semi automated assistant to a fully autonomous algorithm.
 
 This repository documents the design, architecture, agent roles, and the logic of the system. The algorithm is under active development and will be refined in progressive stages.
 
