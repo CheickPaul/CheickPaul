@@ -6,7 +6,7 @@ This repository documents my self study journey to pursue a role as a junior qua
 
 Welcome to my GitHub profile! I'm deeply passionate about financial markets, particularly trading and quantitative finance. Coming from a physics background, I am exploring how mathematical models and programming can be applied to financial decision making and strategies.
 
-I passed many prop firms challenge such as TOPSTEP. Now I am actively preparing to apply for top tier master's programs in Quantitative finance and seeking opportunities in trading junior roles and quant positions.
+After discovering trading through training and seminars, I validated challenges with prop firms such as TOPSTEP. Now I am actively preparing to apply for top tier master's programs in Quantitative finance and seeking opportunities in trading junior roles and quant positions.
 
 This GitHub is my way of documenting that journey, building projects, and connecting with like minded individuals.
 
