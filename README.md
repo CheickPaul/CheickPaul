@@ -60,7 +60,8 @@ This section outlines the books I’m currently studying to reinforce my knowled
 ---
 ## 📈 Algorithmic Trading System for Ultra Bond (UB) under development
 
-This project aims to develop a high performance trading algorithm designed for the Ultra Bond (UB) futures market. The strategy is based on Smart Money Concepts (SMC), volume spikes, time-based execution windows, and economic news filtering — basic elements that I have already used for passing a rigorous propfirm challenge. 
+This project aims to develop a high performance trading algorithm designed for the Ultra Bond (UB) futures market. The strategy is based on : Institutional accumulation zone, Liquidity sweep, Imbalance,
+Swing structure break, volume spikes, time-based execution windows, and economic news filtering, basic elements that I have already used for passing a rigorous propfirm challenge. 
 
 The core innovation lies in the integration of multiple AI agents, each responsible for replicating key elements of discretionary trading. The goal is to progressively evolve the system from a semi automated assistant to a fully autonomous algorithm.
 
