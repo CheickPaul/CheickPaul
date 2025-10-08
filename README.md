@@ -1,4 +1,4 @@
-## Hi to everyone
+## Hi everyone, and thanks for visiting my profile
 
 This repository documents my self study journey to pursue a role as a junior quantitative trader and to prepare for a master's degree in Quantitative finance / finance.
 
@@ -22,8 +22,8 @@ My goal is to review and strengthen my foundations in mathematics and programmin
 Here are the certifications I’m currently working on as part of my learning path.  
 You can follow my progress in the dedicated repositories linked on my profile.
 
-Finance & Python Learning Portfolio
-- **Financial Markets** — Yale University  [ Financial Markets folder](./Yale-financial-markets/)  ✅
+[Finance & Python Learning Portfolio](https://github.com/<ton-user>/finance-and-python-learning-portfolio)
+- **Financial Markets** — Yale University   ✅
 - **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti  
 - **Introduction to Portfolio Construction and Analysis with Python** — EDHEC 
 - **Advanced Portfolio Construction and Analysis with Python** — EDHEC  
@@ -31,8 +31,8 @@ Finance & Python Learning Portfolio
 - **Python and Machine-Learning for Asset Management with Alternative Data Sets** — EDHEC 
 - **Bloomberg Market Concepts (BMC)** — Bloomberg  
 
-Quantitative Math Learning Portfolio
-- **Linear Algebra** — Imperial College London [ Linear Algebra folder](./linear-algebra--imperial-college-london/) ·
+[Quantitative Math Learning Portfolio](https://github.com/<ton-user>/Quantitative-Math-Learning-Portfolio) · 
+- **Linear Algebra** — Imperial College London  
 - **Multivariate Calculus** — Imperial College London 
 - **Mathematics for Machine Learning – PCA** — Imperial College London  
 - **Probability & Statistics: To p or not to p?** — University of London 
