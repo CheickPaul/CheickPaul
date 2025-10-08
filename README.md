@@ -40,7 +40,7 @@ You can follow my progress in the dedicated repositories linked on my profile.
 - **Python and Machine-Learning for Asset Management with Alternative Data Sets** — EDHEC 
 - **Bloomberg Market Concepts (BMC)** — Bloomberg  
 
-[Quantitative Math Learning Portfolio](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio) · 
+[Quantitative Math Learning Portfolio](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio)  
 
 - **Linear Algebra** — Imperial College London  
 - **Multivariate Calculus** — Imperial College London 
