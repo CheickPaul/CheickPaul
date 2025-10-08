@@ -24,6 +24,9 @@ My goal is to review and strengthen my foundations in mathematics and programmin
 Here are the certifications I’m currently working on as part of my learning path.  
 You can follow my progress in the dedicated repositories linked on my profile.
 
+*Tip: Clicking a repository below opens its homepage, which includes a **“Quick access”** section.  
+There you’ll find links to **all certificates** and their detailed folders (modules, notes, progress).*
+
 [Finance & Python Learning Portfolio](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio)
 - **Financial Markets** — Yale University   ✅
 - **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti  
