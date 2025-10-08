@@ -84,7 +84,7 @@ some Chapter summaries, solved exercises, and personal notes are available in th
 
 ##  ✨ Final Note 
 
-This Github showcases my long term commitment 
+This GitHub showcases my long term commitment 
 I’m always open to collaborations, projects, or discussions related to trading, quantitative  finance, algorithmic trading, or financial modeling.  
 Feel free to follow my journey, explore my work and collaborate. Feedback and suggestions are welcome!
 
