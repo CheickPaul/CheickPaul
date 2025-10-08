@@ -23,7 +23,7 @@ Here are the certifications I’m currently working on as part of my learning pa
 You can follow my progress in the dedicated repositories linked on my profile.
 
 Finance & Python Learning Portfolio
-- **Financial Markets** — Yale University  [ Financial Markets folder](./Yale-financial-markets/) ✅
+- **Financial Markets** — Yale University  [ Financial Markets folder](./Yale-financial-markets/)  ✅
 - **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti  
 - **Introduction to Portfolio Construction and Analysis with Python** — EDHEC 
 - **Advanced Portfolio Construction and Analysis with Python** — EDHEC  
@@ -72,10 +72,10 @@ some Chapter summaries, solved exercises, and personal notes are available in th
 
 ---
 
-##  ✨ Final Note - 🚀 Let's Connect 
+##  ✨ Final Note 
 
-This repository showcases my long term commitment to mastering both quantitative and discretionary trading and seeking opportunities in trading roles.  
-I’m always open to collaborations, projects, or discussions related to trading, quant finance, algorithmic trading, or financial modeling.  
+This repository showcases my long term commitment 
+I’m always open to collaborations, projects, or discussions related to trading, quantitative  finance, algorithmic trading, or financial modeling.  
 Feel free to follow my journey, explore my work and collaborate. Feedback and suggestions are welcome!
 
 ---
