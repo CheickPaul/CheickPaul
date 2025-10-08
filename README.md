@@ -1,72 +1,66 @@
-## Hi there 👋
+## Hi to everyone
 
-This repository documents my self study journey to pursue a role as a junior quant trader and to prepare for a top tier master's degree in Quantitatif / financial market.
+This repository documents my self study journey to pursue a role as a junior quantitative trader and to prepare for a master's degree in Quantitative finance / finance.
 
-## 👤 About Me 
+##  About Me 
 
-Welcome to my GitHub profile! I'm deeply passionate about financial markets, particularly trading and quantitative finance. Coming from a physics background, I am exploring how mathematical models and programming can be applied to financial decision making and strategies.
-
-After discovering trading through training and seminars, I validated challenges with prop firms such as TOPSTEP. Now I am actively preparing to apply for top tier master's programs in Quantitative finance and seeking opportunities in trading junior roles and quant positions.
+Welcome to my GitHub profile ! I'm a former Construction entrepreuneur with a academic background in physics, now transitioning into quantitative finance. My current goal is to pursue graduate studies in Quantitative Finance at a master level and work in financial market. I am passionate about trading and quant research and I am exploring how mathematical models and programming can be applied to financial decision making and strategies design.
 
 This GitHub is my way of documenting that journey, building projects, and connecting with like minded individuals.
 
 ---
 
-## 🎯 Objective
+## Objective
 
-My goal is to enhance my understanding of mathematics and programming, technical analysis, focusing on the skills needed for a career in discretionary and quantitative trading.
+My goal is to review and strengthen my foundations in mathematics and programming (and selected finance topics) with a focus on the skills needed for a career in quantitative trading.
 
----
-
-## 🎓 Certificates in Progress
-
-Here are the certifications I’m currently working on as part of my structured learning path.  
-👉 You can follow my progress in the dedicated repositories linked on my profile.
-
-- **Financial Markets** — Yale University (Coursera)  
-- **Investment Management** — University of Geneva (Coursera)  
-- **BMC Bloomberg Market Concepts** — Bloomberg  
-- **Python for Everybody** — University of Michigan (Coursera)  
-- **Introduction to Data Science** — IBM (Coursera)  
-- **Machine Learning** — Stanford University, Andrew Ng (Coursera)  
-- **Python for Finance** — DataCamp 
-- **CFA Level 1** — CFA Institute
-- **Trading in the Zone – Psychology of Trading** — Udemy 
 
 ---
 
-## 📚 Books and Resources In Progress
+##  Certificates completed and in progress
 
-This section outlines the books I’m currently studying to reinforce my knowledge of mathematics, finance, and programming.  
-👉 Chapter summaries, solved exercises, and personal notes are available in the corresponding repositories.
+Here are the certifications I’m currently working on as part of my learning path.  
+You can follow my progress in the dedicated repositories linked on my profile.
 
-- *Precalculus* – Stewart & Redlin  
-- *Art of Problem Solving – Algebra*  
-- *Introduction to Probability* – Blitzstein & Hwang  
+Finance & Python Learning Portfolio
+- **Financial Markets** — Yale University  [ Financial Markets folder](./Yale-financial-markets/) ✅
+- **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti  
+- **Introduction to Portfolio Construction and Analysis with Python** — EDHEC 
+- **Advanced Portfolio Construction and Analysis with Python** — EDHEC  
+- **Python and Machine Learning for Asset Management** — EDHEC 
+- **Python and Machine-Learning for Asset Management with Alternative Data Sets** — EDHEC 
+- **Bloomberg Market Concepts (BMC)** — Bloomberg  
+
+Quantitative Math Learning Portfolio
+- **Linear Algebra** — Imperial College London [ Linear Algebra folder](./linear-algebra--imperial-college-london/) ·
+- **Multivariate Calculus** — Imperial College London 
+- **Mathematics for Machine Learning – PCA** — Imperial College London  
+- **Probability & Statistics: To p or not to p?** — University of London 
+- **Statistics with Python** — University of Michigan  
+- **Advanced Probability and Statistical Methods** — Johns Hopkins University 
+- **Stochastic Calculus for Finance** — edX / FutureLearn  
+---
+
+## Books and Resources
+
+This section outlines the books I’m currently studying 
+some Chapter summaries, solved exercises, and personal notes are available in the corresponding repositories.
+
 - *Heard on the Street* – Timothy Crack  
-- *Calculus Vol 1 & 2* – Tom Apostol  
-- *Linear Algebra Done Right* – Sheldon Axler  
-- *Probability and Statistics* – Morris DeGroot  
-- *An Introduction to Game Theory* – Martin Osborne  
-- *Stochastic Calculus for Finance I & II* – Steven Shreve  
-- *The Concepts and Practice of Mathematical Finance* – Mark Joshi  
-- *Machine Learning for Asset Managers* – Marcos López de Prado  
-- *Numerical Methods in Finance with C++* – Daniel J. Duffy  
-- *Automate the Boring Stuff with Python* – Al Sweigart  
-- *Python for Data Analysis* – Wes McKinney  
-- *Introduction to OCaml* – Jason Hickey  
-- *Real World OCaml* – Yaron Minsky
+- **Linear Algebra Done Right (4th ed.)** — Sheldon Axler  
+- **Calculus, Vol. 1** — Tom M. Apostol  
+- **Calculus, Vol. 2** — Tom M. Apostol  
+- **Introduction to Probability** — Joseph K. Blitzstein & Jessica Hwang  
+- **Probability and Statistics** — Morris H. DeGroot & Mark J. Schervish  
+- **Statistical Inference (2nd ed.)** — George Casella & Roger L. Berger *(optional/advanced)*  
+- **Stochastic Calculus for Finance I & II** — Steven E. Shreve  
+- **Understanding Analysis (2nd ed.)** — Stephen Abbott  
+- **Discrete Mathematics and Its Applications** — Kenneth H. Rosen  
+- **Convex Optimization** — Stephen Boyd & Lieven Vandenberghe  
+- **Principal Component Analysis (2nd ed.)** — I.T. Jolliffe
 - 
 ---
-## 📈 Algorithmic Trading System for Ultra Bond (UB) under development
-
-This project aims to develop a high performance trading algorithm designed for the Ultra Bond (UB) futures market. The strategy is based on : Institutional accumulation zone, Liquidity sweep (stop runs), Imbalance,
-Swing structure break, volume spikes, time-based execution windows, and economic news filtering, basic elements that I have already used for passing a rigorous propfirm challenge. 
-
-The core innovation lies in the integration of multiple AI agents, each responsible for replicating key elements of discretionary trading. The goal is to progressively evolve the system from a semi automated assistant to a fully autonomous algorithm.
-
-This repository documents the design, architecture, agent roles, and the logic of the system. The algorithm is under active development and will be refined in progressive stages.
-
+## Projects
 
 ---
 
@@ -75,11 +69,6 @@ This repository documents the design, architecture, agent roles, and the logic o
 ![CheickPaul GitHub stats](https://github-readme-stats.vercel.app/api?username=CheickPaul&show_icons=true&theme=default)
 
 ---
-
-## 🚧 Progress Updates
-
-To keep this repository concise, I’ve listed my **certificates in progress**, **books in progress**, and **algorithmic Trading projects under development** in separate repositories.  
-➡️ **Feel free to explore my GitHub profile** to follow my learning journey and current work.
 
 ---
 
