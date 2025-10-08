@@ -26,7 +26,11 @@ You can follow my progress in the dedicated repositories linked on my profile.
 
 
 
-*![TIP](https://img.shields.io/badge/TIP-Quick%20Access-green) : Clicking a repository below opens its homepage, which includes a **“Quick access”** section. There you’ll find links to **all certificates** and their detailed folders (modules, notes, progress).*
+Tip: Clicking a repository below opens its homepage, which includes a **“Quick access”** section. There you’ll find links to **all certificates** and their detailed folders (modules, notes, progress).*
+<p align="center">
+  <img src="https://img.shields.io/badge/TIP-Quick%20Access-green" alt="TIP: Quick Access">
+</p>
+
 
 [Finance & Python Learning Portfolio](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio)
 - **Financial Markets** — Yale University   ✅
