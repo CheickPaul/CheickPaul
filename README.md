@@ -33,22 +33,22 @@ You can follow my progress in the dedicated repositories linked on my profile.
 
 [Finance & Python Learning Portfolio](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio)
 - **Financial Markets, Options and Derivatives** - Summer University — Copenhagen Business School  ✅
-- **Financial Markets** — Yale University   ✅
+- **Financial Markets** — Yale University (Coursera)  ✅
 - **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti  
-- **Introduction to Portfolio Construction and Analysis with Python** — EDHEC 
-- **Advanced Portfolio Construction and Analysis with Python** — EDHEC  
-- **Python and Machine Learning for Asset Management** — EDHEC 
-- **Python and Machine-Learning for Asset Management with Alternative Data Sets** — EDHEC 
+- **Introduction to Portfolio Construction and Analysis with Python** — EDHEC (Coursera)
+- **Advanced Portfolio Construction and Analysis with Python** — EDHEC  (Coursera)
+- **Python and Machine Learning for Asset Management** — EDHEC (Coursera)
+- **Python and Machine-Learning for Asset Management with Alternative Data Sets** — EDHEC (Coursera)
 - **Bloomberg Market Concepts (BMC)** — Bloomberg  
 
 [Quantitative Math Learning Portfolio](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio)  
 
-- **Linear Algebra** — Imperial College London  
-- **Multivariate Calculus** — Imperial College London 
-- **Mathematics for Machine Learning – PCA** — Imperial College London  
-- **Probability & Statistics: To p or not to p?** — University of London 
-- **Statistics with Python** — University of Michigan  
-- **Advanced Probability and Statistical Methods** — Johns Hopkins University 
+- **Linear Algebra** — Imperial College London  (Coursera)
+- **Multivariate Calculus** — Imperial College London (Coursera)
+- **Mathematics for Machine Learning – PCA** — Imperial College London  (Coursera)
+- **Probability & Statistics: To p or not to p?** — University of London (Coursera)
+- **Statistics with Python** — University of Michigan  (Coursera)
+- **Advanced Probability and Statistical Methods** — Johns Hopkins University (Coursera)
 - **Stochastic Calculus for Finance** — edX / FutureLearn  
 ---
 
