@@ -34,7 +34,7 @@ You can follow my progress in the dedicated repositories linked on my profile.
 [Finance & Python Learning Portfolio](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio)
 - **Investments: Financial Markets,Options and Derivatives** - Summer University — Copenhagen Business School  ✅
 - **Financial Markets** — Yale University (Coursera)  ✅
-- **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti  
+- **Executive Programme in Algorithmic Trading (EPAT®)** — QuantInsti  
 - **Introduction to Portfolio Construction and Analysis with Python** — EDHEC (Coursera)
 - **Advanced Portfolio Construction and Analysis with Python** — EDHEC  (Coursera)
 - **Python and Machine Learning for Asset Management** — EDHEC (Coursera)
