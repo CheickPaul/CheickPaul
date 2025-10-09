@@ -14,7 +14,7 @@ This GitHub is my way of documenting that journey, building projects, and connec
 
 ## Objective
 
-My goal is to review and strengthen my foundations in mathematics and programming (and selected finance topics) with a focus on the skills needed for a career in quantitative trading.
+My goal is to review and strengthen my foundations in mathematics and programming and selected finance topics with a focus on the skills needed for a career in quantitative trading.
 
 
 ---
