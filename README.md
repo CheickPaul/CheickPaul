@@ -19,7 +19,7 @@ My goal is to review and strengthen my foundations in mathematics and programmin
 
 ---
 
-##  Certificates completed and in progress
+##  Certificates/ Courses completed and in progress
 
 Here are the certifications I’m currently working on as part of my learning path.  
 You can follow my progress in the dedicated repositories linked on my profile.
@@ -32,7 +32,7 @@ You can follow my progress in the dedicated repositories linked on my profile.
 
 
 [Finance & Python Learning Portfolio](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio)
-- **Financial Markets, Options and Derivatives** - Summer University — Copenhagen Business School  ✅
+- **Investments: Financial Markets,Options and Derivatives** - Summer University — Copenhagen Business School  ✅
 - **Financial Markets** — Yale University (Coursera)  ✅
 - **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti  
 - **Introduction to Portfolio Construction and Analysis with Python** — EDHEC (Coursera)
