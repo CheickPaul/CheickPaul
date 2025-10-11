@@ -4,7 +4,7 @@ This repository documents my self study journey to pursue a role as a junior qua
 
 ##  About Me 
 
-Welcome to my GitHub profile ! I'm a former entrepreuneur with a bachelor in physics, now transitioning into quantitative finance. My current goal is to pursue graduate studies in Quantitative Finance at a master level and work in financial market. I am passionate about trading and quant research and I am exploring how mathematical models and programming can be applied to financial decision making and strategies design.
+Welcome to my GitHub profile ! I'm a former entrepreuneur with a bachelor degree in physics, now transitioning into quantitative finance. My current goal is to pursue graduate studies in Quantitative Finance at a master level and work in financial market. I am passionate about trading and quant research and I am exploring how mathematical models and programming can be applied to financial decision making and strategies design.
 
 This GitHub is my way of documenting that journey, building projects, and connecting with like minded individuals.
 
