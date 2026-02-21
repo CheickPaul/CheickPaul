@@ -1,95 +1,97 @@
-## Hi everyone, and thanks for visiting my profile
+## Long-Term Academic & Professional Project
 
-This repository documents my self study journey to pursue a role as a junior quantitative trader and to prepare for a master's degree in Quantitative finance / finance.
+Thank you for visiting my profil.
+
+This repository is a long-term academic and professional project.
+
+It began as a structured preparation for graduate studies in Finance and Wealth Management. It is intentionally designed as a continuous process rather than a finished product.
+
+Financial markets evolve. Economic conditions shift. Investment frameworks adapt.
+For this reason, learning in finance must remain ongoing.
+
+This repository reflects a disciplined commitment to continuous development and intellectual consistency. 
+This GitHub is my way of documenting that journey, building and connecting with like minded individuals.
+
 
 ##  About Me 
 
-Welcome to my GitHub profile ! I'm a former entrepreuneur with a bachelor degree in physics, now transitioning into quantitative finance. My current goal is to pursue graduate studies in Quantitative Finance at a master level and work in financial market. I am passionate about trading and quant research and I am exploring how mathematical models and programming can be applied to financial decision making and strategies design.
+I hold a Bachelor’s degree in Physics and an MBA.
 
-This GitHub is my way of documenting that journey, building projects, and connecting with like minded individuals.
+I am transitioning toward financial markets with a focus on portfolio management, macroeconomic analysis, fixed income, and risk management.
+
+My scientific background shapes my approach to finance: Analytical rigor ; Quantitative reasoning ; Structured thinking ; Long-term perspective
 
 **LinkedIn:** [linkedin.com/in/paul-c-94349036b](https://www.linkedin.com/in/paul-c-94349036b/)  
 
 ---
 
-## Objective
+## Purpose
 
-My goal is to review and strengthen my foundations in mathematics and programming and selected finance topics with a focus on the skills needed for a career in quantitative trading.
+This GitHub serves as a structured archive of my progression.
 
+It includes: Selected financial certifications notes (e.g., Bloomberg Market Concepts, Yale Financial Market, Executive Program of Algorithmic Trading, EPAT, Quantinsti- in progress)
+
+The objective is clarity, coherence, and disciplined thinking over time.
+
+## Long-Term Commitment
+
+This project will continue: Prior to graduate studies, during my master’s program, throughout my professional career
+
+It is intended as a living archive, documenting the evolution of my understanding as I develop academically and professionally.
+
+If these materials provide clarity or support to others interested in finance, then the project fulfills an additional purpose beyond personal development.
 
 ---
 
-##  Certificates/ Courses completed and in progress
+##  Certificates / Courses
 
-Here are the certifications I’m currently working on as part of my learning path.  
-You can follow my progress in the dedicated repositories linked on my profile.
-
-
+### Finance & Markets
 
 *Tip: Clicking a repository below opens its homepage, which includes a **“Quick access”** section. There you’ll find links to **all certificates** and their detailed folders (modules, notes, progress, proof).*
 
 ![TIP](https://img.shields.io/badge/TIP-Quick%20Access-green)
 
-
 [Finance & Python Learning Portfolio](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio)
 - **Investments: Financial Markets,Options and Derivatives** - Summer University — Copenhagen Business School  ✅
+- - - **Bloomberg Market Concepts (BMC)** — Bloomberg  ✅
 - **Financial Markets** — Yale University (Coursera) [ ✅ ](./epat--quantinsti/)
-- **Executive Programme in Algorithmic Trading (EPAT®)** — QuantInsti  
-- **Introduction to Portfolio Construction and Analysis with Python** — EDHEC (Coursera)
-- **Advanced Portfolio Construction and Analysis with Python** — EDHEC  (Coursera)
-- **Python and Machine Learning for Asset Management** — EDHEC (Coursera)
-- **Python and Machine-Learning for Asset Management with Alternative Data Sets** — EDHEC (Coursera)
-- **Bloomberg Market Concepts (BMC)** — Bloomberg  
+- **Executive Programme in Algorithmic Trading (EPAT®)** — QuantInsti  (in progress)
+
+Additional modules will be progressively documented as they are studied.
+
+  (Selected notes and summaries are documented in the dedicated repositories.)
+
+  ### Quantitative & Analytical Foundations
 
 [Quantitative Math Learning Portfolio](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio)  
 
-- **Linear Algebra** — Imperial College London  (Coursera)
-- **Multivariate Calculus** — Imperial College London (Coursera)
-- **Mathematics for Machine Learning – PCA** — Imperial College London  (Coursera)
-- **Probability & Statistics: To p or not to p?** — University of London (Coursera)
-- **Statistics with Python** — University of Michigan  (Coursera)
-- **Advanced Probability and Statistical Methods** — Johns Hopkins University (Coursera)
-- **Stochastic Calculus for Finance** — edX / FutureLearn  
+Current focus:
+- **Linear Algebra** — Imperial College London  (Coursera) - (in progress)
+
+Additional modules will be progressively documented as they are studied.
+
+  (Selected notes and summaries are documented in the dedicated repositories.)
+
+
 ---
 
-## Books and Resources
-
-This section outlines the books I’m currently studying 
-some Chapter summaries, solved exercises, and personal notes are available in the corresponding repositories.
-
-- *Heard on the Street* – Timothy Crack  
-- **Linear Algebra Done Right (4th ed.)** — Sheldon Axler  
-- **Calculus, Vol. 1** — Tom M. Apostol  
-- **Calculus, Vol. 2** — Tom M. Apostol  
-- **Introduction to Probability** — Joseph K. Blitzstein & Jessica Hwang  
-- **Probability and Statistics** — Morris H. DeGroot & Mark J. Schervish  
-- **Statistical Inference (2nd ed.)** — George Casella & Roger L. Berger *(optional/advanced)*  
-- **Stochastic Calculus for Finance I & II** — Steven E. Shreve  
-- **Understanding Analysis (2nd ed.)** — Stephen Abbott  
-- **Discrete Mathematics and Its Applications** — Kenneth H. Rosen  
-- **Convex Optimization** — Stephen Boyd & Lieven Vandenberghe  
-- **Principal Component Analysis (2nd ed.)** — I.T. Jolliffe
-- 
----
 ## Projects
 
+Projects will be progressively added as part of this long-term development.
+
 ---
+
+## Final Note
+
+This GitHub reflects a structured and long-term commitment to financial markets and continuous learning.
+
+Professional discussions related to portfolio management, macroeconomics, quantitative tools, and financial analysis are welcome.
 
 ## 📊 GitHub Stats
 
 ![CheickPaul GitHub stats](https://github-readme-stats.vercel.app/api?username=CheickPaul&show_icons=true&theme=default)
 
----
 
----
-
-##  ✨ Final Note 
-
-This GitHub showcases my long term commitment 
-I’m always open to collaborations, projects, or discussions related to trading, quantitative  finance, algorithmic trading, or financial modeling.  
-Feel free to follow my journey, explore my work and collaborate. Feedback and suggestions are welcome!
-
----
 
 
 
