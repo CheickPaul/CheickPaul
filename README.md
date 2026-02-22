@@ -7,7 +7,7 @@ This repository is a long-term academic and professional project.
 It began as a structured preparation for graduate studies in Finance and Wealth Management. It is intentionally designed as a continuous process rather than a finished product.
 
 Financial markets evolve. Economic conditions shift. Investment frameworks adapt.
-For this reason, learning in finance must remain ongoing.
+For this reason, learning must remain ongoing.
 
 This repository reflects a disciplined commitment to continuous development and intellectual consistency. 
 This GitHub is my way of documenting that journey, building and connecting with like minded individuals.
@@ -15,9 +15,9 @@ This GitHub is my way of documenting that journey, building and connecting with 
 
 ##  About Me 
 
-I hold a Bachelor’s degree in Physics and an MBA.
+I hold a Bachelor’s degree in Physics and an MBA in Supply Chain and Purchasing.
 
-I am transitioning toward financial markets with a focus on portfolio management, macroeconomic analysis, fixed income, and risk management.
+I am transitioning toward financial markets with a focus on Equity Research, portfolio management, macroeconomic analysis, fixed income, and risk management.
 
 My scientific background shapes my approach to finance: Analytical rigor ; Quantitative reasoning ; Structured thinking ; Long-term perspective
 
@@ -47,7 +47,7 @@ If these materials provide clarity or support to others interested in finance, t
 
 ### Finance & Markets
 
-*Tip: Clicking a repository below opens its homepage, which includes a **“Quick access”** section. There you’ll find links to **all certificates** and their detailed folders (modules, notes, progress, proof).*
+*Tip: Clicking a repository below opens its homepage, which includes a **“Quick access”** section. There you’ll find links to **all certificates** and their detailed folders (modules, selected notes, progress, proof).*
 
 ![TIP](https://img.shields.io/badge/TIP-Quick%20Access-green)
 
