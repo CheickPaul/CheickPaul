@@ -15,7 +15,7 @@ This GitHub is my way of documenting that journey, building and connecting with 
 
 ##  About Me 
 
-I hold a Bachelor’s degree in Physics and an MBA in Supply Chain and Purchasing.
+I hold a Bachelor’s degree in Physics and an MSc in Supply Chain and Purchasing.
 
 I am transitioning toward financial markets with a focus on Equity Research, portfolio management, macroeconomic analysis, fixed income, and risk management.
 
