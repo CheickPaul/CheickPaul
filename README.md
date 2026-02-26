@@ -45,7 +45,7 @@ If these materials provide clarity or support to others interested in finance, t
 
 ##  Certificates / Courses
 
-*Tip: For the best experience and a full overview (structure, modules, notes, and progress), open the repository first, then use the **Quick Access** section. You can also click the ✅ / ⏳ icons for direct access to each course folder.*
+*Tip: For the best experience and a full overview (structure, modules, notes, and progress), open the underlined repository first, then use the **Quick Access** section. You can also click the ✅ / ⏳ icons for direct access to each course folder.*
 
 ![TIP](https://img.shields.io/badge/TIP-Quick%20Access-green)
 
