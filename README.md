@@ -63,7 +63,7 @@ Additional modules will be progressively documented as they are studied.
 [Quantitative Math Learning Portfolio](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio)  
 
 Current focus:
-- **Linear Algebra** — Imperial College London  (Coursera) - (in progress)
+- **Linear Algebra** — Imperial College London (Coursera) [⏳](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio/tree/main/linear-algebra--imperial-college-london)
 
 Additional modules will be progressively documented as they are studied.
 (Selected notes and summaries are documented in the dedicated repositories.)
