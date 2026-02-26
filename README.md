@@ -52,10 +52,10 @@ If these materials provide clarity or support to others interested in finance, t
 ![TIP](https://img.shields.io/badge/TIP-Quick%20Access-green)
 
 [Finance & Python Learning Portfolio](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio)
-- **Investments: Financial Markets, Options and Derivatives** — Summer University — Copenhagen Business School [✅](./cbs-summer--financial-markets-options-derivatives/)
-- **Bloomberg Market Concepts (BMC)** — Bloomberg [✅](./bloomberg-market-concepts/)
-- **Financial Markets** — Yale University (Coursera) [✅](./Yale-financial-markets/)
-- **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti [⏳](./epat--quantinsti/)
+- **Investments: Financial Markets, Options and Derivatives** — Summer University — Copenhagen Business School [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/cbs-summer--financial-markets-options-derivatives)
+- **Bloomberg Market Concepts (BMC)** — Bloomberg [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/bloomberg-market-concepts)
+- **Financial Markets** — Yale University (Coursera) [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/Yale-financial-markets)
+- **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti [⏳](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/epat--quantinsti)
 
 Additional modules will be progressively documented as they are studied.
 (Selected notes and summaries are documented in the dedicated repositories.)
