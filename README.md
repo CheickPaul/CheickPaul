@@ -45,11 +45,7 @@ If these materials provide clarity or support to others interested in finance, t
 
 ##  Certificates / Courses
 
-*Tip: Clicking an underlined repository below opens its homepage, which includes a **“Quick access”** section. There you’ll find links to **all certificates** and their detailed folders (modules, selected notes, progress, proof).*
-*If you want a quick entry point, you can click directly on the ✅ / ⏳ icons to open each course folder.  
-For the best overview (structure, notes, modules, and progress), I recommend opening the repository first.*
-
-### Finance & Markets
+*Tip: For the best experience and a full overview (structure, modules, notes, and progress), open the repository first, then use the **Quick Access** section. You can also click the ✅ / ⏳ icons for direct access to each course folder.*
 
 ![TIP](https://img.shields.io/badge/TIP-Quick%20Access-green)
 
