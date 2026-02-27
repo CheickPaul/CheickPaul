@@ -75,6 +75,10 @@ Additional modules will be progressively documented as they are studied.
 
 Projects will be progressively added as part of this long-term development.
 
+[Finance Projects](https://github.com/CheickPaul/Finance-Projects)
+
+- **Asset Allocation in Excel: Efficient Frontier & Minimum-Variance Benchmark** — (Excel simulation, Markowitz mean–variance, Min-Var benchmark).  
+  [🔗](https://github.com/CheickPaul/Finance-Projects/tree/main/projects/asset-allocation-excel-efficient-frontier)
 ---
 
 ## Final Note
