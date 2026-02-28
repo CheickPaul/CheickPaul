@@ -56,6 +56,7 @@ If these materials provide clarity or support to others interested in finance, t
 - **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti [⏳](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/epat--quantinsti)
 
 Additional modules will be progressively documented as they are studied.
+
 (Selected notes and summaries are documented in the dedicated repositories.)
 
   ### Quantitative & Analytical Foundations
@@ -66,6 +67,7 @@ Current focus:
 - **Linear Algebra** — Imperial College London (Coursera) [⏳](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio/tree/main/linear-algebra--imperial-college-london)
 
 Additional modules will be progressively documented as they are studied.
+
 (Selected notes and summaries are documented in the dedicated repositories.)
 
 
