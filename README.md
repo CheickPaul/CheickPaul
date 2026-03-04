@@ -54,6 +54,8 @@ If these materials provide clarity or support to others interested in finance, t
 - **Bloomberg Market Concepts (BMC)** — Bloomberg [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/bloomberg-market-concepts)
 - **Financial Markets** — Yale University (Coursera) [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/Yale-financial-markets)
 - **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti [⏳](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/epat--quantinsti)
+- - **Programming for Everybody (Getting Started with Python)** — University of Michigan (Coursera) — *In progress* ⏳ 
+  🔗 Course: https://www.coursera.org/learn/python
 
 Additional modules will be progressively documented as they are studied.
 
