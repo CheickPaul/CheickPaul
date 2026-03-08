@@ -50,11 +50,11 @@ If these materials provide clarity or support to others interested in finance, t
 ![TIP](https://img.shields.io/badge/TIP-Quick%20Access-green)
 
 [Finance & Python Learning Portfolio](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio)
-- **Investments: Financial Markets, Options and Derivatives** — Graduate Level — Copenhagen Business School [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/cbs-summer--financial-markets-options-derivatives)
-- **Bloomberg Market Concepts (BMC)** — Bloomberg [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/bloomberg-market-concepts)
+- **Investments: Financial Markets, Options and Derivatives** - Graduate Level - Copenhagen Business School [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/cbs-summer--financial-markets-options-derivatives)
+- **Bloomberg Market Concepts (BMC)** - Bloomberg [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/bloomberg-market-concepts)
 - **Financial Markets** — Yale University (Coursera) [✅](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/Yale-financial-markets)
-- **Executive Programme in Algorithmic Trading (EPAT)** — QuantInsti [⏳](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/epat--quantinsti)
--  **Programming for Everybody (Getting Started with Python)** — University of Michigan (Coursera) — *In progress* [⏳](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/blob/780a20626b0221c46e6e888e3c271bfd36e5f56e/python-for-everybody/README.md) 
+- **Executive Programme in Algorithmic Trading (EPAT)** - QuantInsti [⏳](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/tree/main/epat--quantinsti)
+-  **Programming for Everybody (Getting Started with Python)** - University of Michigan (Coursera) - *In progress* [⏳](https://github.com/CheickPaul/Finance-Python-Learning-Portfolio/blob/780a20626b0221c46e6e888e3c271bfd36e5f56e/python-for-everybody/README.md) 
 
 
 Additional modules will be progressively documented as they are studied.
@@ -66,7 +66,7 @@ Additional modules will be progressively documented as they are studied.
 [Quantitative Math Learning Portfolio](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio)  
 
 Current focus:
-- **Linear Algebra** — Imperial College London (Coursera) [⏳](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio/tree/main/linear-algebra--imperial-college-london)
+- **Linear Algebra** - Imperial College London (Coursera) [⏳](https://github.com/CheickPaul/Quantitative-Math-Learning-Portfolio/tree/main/linear-algebra--imperial-college-london)
 
 Additional modules will be progressively documented as they are studied.
 
@@ -81,7 +81,7 @@ Projects will be progressively added as part of this long-term development.
 
 [Finance Projects](https://github.com/CheickPaul/Finance-Projects)
 
-- **Asset Allocation in Excel: Efficient Frontier & Minimum-Variance Benchmark** — (Excel simulation, Markowitz mean–variance, Min-Var benchmark).  
+- **Asset Allocation in Excel: Efficient Frontier & Minimum-Variance Benchmark** - (Excel simulation, Markowitz mean–variance, Min-Var benchmark).  
   [🔗](https://github.com/CheickPaul/Finance-Projects/tree/main/projects/asset-allocation-excel-efficient-frontier)
 ---
 
