@@ -9,7 +9,7 @@ It began as a structured preparation for graduate studies in Finance and Wealth 
 Financial markets evolve. Economic conditions shift. Investment frameworks adapt.
 For this reason, learning must remain ongoing.
 
-This repository reflects a disciplined commitment to continuous development and intellectual consistency. 
+This repository reflects a structured commitment to continuous development and intellectual consistency. 
 This GitHub is my way of documenting that journey, building and connecting with like minded individuals.
 
 
