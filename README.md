@@ -19,7 +19,6 @@ I hold a Bachelor’s degree in Physics and a MSc in International Purchasing an
 
 I am transitioning toward financial markets with a focus on Equity Research, portfolio management, macroeconomic analysis, fixed income, and risk management.
 
-My scientific background shapes my approach to finance: Analytical rigor ; Quantitative reasoning ; Structured thinking ; Long-term perspective
 
 **LinkedIn:** [linkedin.com/in/paul-c-94349036b](https://www.linkedin.com/in/paul-c-94349036b/)  
 
