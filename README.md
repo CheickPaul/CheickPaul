@@ -34,7 +34,7 @@ The objective is clarity, coherence, and disciplined thinking over time.
 
 ## Long-Term Commitment
 
-This project will continue: Prior to graduate studies, during my master’s program, throughout my professional career
+This project will continue: Prior to my transition, during my studies, throughout my professional career
 
 It is intended as a living archive, documenting the evolution of my understanding as I develop academically and professionally.
 
